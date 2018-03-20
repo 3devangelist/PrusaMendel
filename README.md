@@ -6,7 +6,7 @@
 
 I have made these because i can, and i love history! and is a historic printer!
 
-My motivation is make a printer with a printer, i have a [*Beethefirst+*](https://beeverycreative.com/beethefirstplus/), that is **portable** and **user friendly** and i wanted to prove that with that Little machine i could create a bigger one! and more maker oriented.
+My motivation is make a printer with a printer, i have a [*Beethefirst+*](https://beeverycreative.com/beethefirstplus/), that is **portable** and **user friendly** and i wanted to prove that with a Little machine i could create a bigger one! and more maker oriented.
 That is the base of REPRAP movement!
 
 You will have all the gcode already generated to print one just like me in you beethefirst! and if you do **Show me!**
