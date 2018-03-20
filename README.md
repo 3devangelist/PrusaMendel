@@ -8,7 +8,7 @@ I have used rhino to cut pieces, because is the only paid CAD program i have, bu
 ## Changes
 
 - New X axes;
-- remodelled Y;
+- remodeled Y;
 - Some updates on Z;
 - Bowden for extruder;
 - E3d v6 hotend;
@@ -35,4 +35,3 @@ I have edited the model to fit a MK10 tipe of gear if you want other please edit
 
 ## Hotend
 I have used a Bowden setup with E3d v6 Chinese clone, before all the test I am thinking to upgrade it for a original one!
-
