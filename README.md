@@ -28,7 +28,15 @@ To cut pieces,i have used rhino, because is the only paid CAD program i have, bu
 The file as called maise.blend, with that file i have rendered all images for the manual, and modeled all parts that i need to create or change for these build. If you need to edit you can and you should is because of that i share the source code. All the parts have the same name of the boom file, and are distributed by layers, i know that could be better organized, but better done than perfect.
 You should use some add-on's like "3d print toolbox", "Layer management", "cycle engine", when you use models from blender you can try to clean all the mesh to be printable, but that is normally for power users, and when you use Boolean tools is impossible to make that without lose the modifiers stack, and we have to source the more editable parts we can, for others could change. The pipe-line i use is export meshes to stl with "3d print toolbox" add on, then use a tool that came with windows10 called "3d Builder" that is great to heal meshes.
 
+### Heal meshes on 3d Builder
+
 ![image 3d builder - heal meshes](Maise_mendal/imagens/repair_meshes_3d_builder.png)
+
+- 1 Import as mm;
+- 2 When you see red rectangle in the base of the model, means that the model has errors;
+- 3 Import the model;
+- 4 When you import the model, a rectangle shows up in the right down of your screen, click on it to repair;
+- 5 Save your file em STL;
 
 ## Changes
 
