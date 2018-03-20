@@ -1,7 +1,7 @@
 # maZEmendel
 
 <p align="center">
-  <img src= "\PrusaMendel\Maise_mendal\imagens\Foto_1_Maise_mendel.JPG">
+  <img src= "PrusaMendel\Maise_mendal\imagens\Foto_1_Maise_mendel.JPG">
 </p>
 
 
