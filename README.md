@@ -28,7 +28,7 @@ Working..
 
 ###Saintflint
 
-These is the best bowden printed extruder i have used! was developed bay a great friend [Michael Memeteau](https://incompreendido/in/mmemetea/), creative and resourceful engineer.
+These is the best bowden printed extruder i have used! was developed by a great friend [Michael Memeteau](https://incompreendido/in/mmemetea/), creative and resourceful engineer.
 These extruder as a concept of double the area of adherence of the tooth to the filament.
 I have edited the model to fit a MK10 tipe of gear if you want other please edit it yourself, you have a editable [onshape instance](https://cad.onshape.com/documents/5c209690b10748338481382a/w/6d6638f54420d7c76fe7949d/e/2d47f4694787414fab59244e)
 [source](https://www.thingiverse.com/thing:979113)
