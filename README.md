@@ -1,7 +1,7 @@
 # maZEmendel
 
 
-![](3devangelist/PrusaMendel/blob/master/Maise_mendal/imagens/Foto_1_Maise_mendel.JPG)
+![](PrusaMendel/blob/master/Maise_mendal/imagens/Foto_1_Maise_mendel.JPG))
 
 I have made these because i can, and i love history! and is a historic printer!
 
