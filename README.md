@@ -25,7 +25,7 @@ I have used **BLENDER**, because i am a blender hardcore-user, because i can, an
 
 To cut pieces,i have used rhino, because is the only paid CAD program i have, but you can use the dxf or you can ask to me and i can convert to your needs, and to bee fair the only part you have to cut with precision is the Y wood base, later i will give the fabrication manual.
 
-The file as called maise.blend, with that file i have rendered all images for the manual, and modeled all parts that i need to create or change for these build. If you need to edit you can and you should is because of that i share the source code. All the parts have the same name of the boom file, and are distributed by layers, i know that could be better organized, but better done than perfect.
+The file as called *"maise.blend"*, with that file i have rendered all images for the manual, and modeled all parts that i need to create or change for these build. If you need to edit you can and you should is because of that i share the source code. All the parts have the same name of the boom file, and are distributed by layers, i know that could be better organized, but better done than perfect.
 You should use some add-on's like "3d print toolbox", "Layer management", "cycle engine", when you use models from blender you can try to clean all the mesh to be printable, but that is normally for power users, and when you use Boolean tools is impossible to make that without lose the modifiers stack, and we have to source the more editable parts we can, for others could change. The pipe-line i use is export meshes to stl with "3d print toolbox" add on, then use a tool that came with windows10 called "3d Builder" that is great to heal meshes.
 
 ### Heal meshes on 3d Builder
@@ -68,8 +68,8 @@ Working..
 </p>
 
 These is the best bowden printed extruder i have used! was developed by a great friend [Michael Memeteau](https://incompreendido/in/mmemetea/), creative and resourceful engineer.
-These extruder as a concept of double the area of adherence of the tooth to the filament.
-I have edited the model to fit a MK10 tipe of gear if you want other please edit it yourself, you have a editable [onshape instance](https://cad.onshape.com/documents/5c209690b10748338481382a/w/6d6638f54420d7c76fe7949d/e/2d47f4694787414fab59244e)
+These extruder has a concept of double the area of adherence of the tooth to the filament.
+I have edited the model to fit a MK10 type of gear if you want other please edit it yourself, you have a editable [onshape instance](https://cad.onshape.com/documents/5c209690b10748338481382a/w/6d6638f54420d7c76fe7949d/e/2d47f4694787414fab59244e)
 
 In the [source](https://www.thingiverse.com/thing:979113) you have all information you need to assemble the extruder!
 
