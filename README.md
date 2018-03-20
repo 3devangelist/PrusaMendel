@@ -1,7 +1,7 @@
 # maZEmendel
 
 <p align="center">
-  <img src="Maise_mendal/imagens/Foto_1_Maise_mendel.JPG"; height: 200px; width: 50%;>
+  <img src="Maise_mendal/imagens/Foto_1_Maise_mendel.JPG" width: 20%;>
 </p>
 
 I have made these because i can, and i love history! and is a historic printer!
