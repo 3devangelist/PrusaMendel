@@ -95,8 +95,8 @@ You should be able to assemble with these [instructions](http://reprap.org/wiki/
 ### ATX Power supply 
 To use a PC ATX power supply, you have to convert it, go to these [instructables](http://www.instructables.com/id/A-Makers-Guide-to-ATX-Power-Supplies/) you only need the 12V track, unless you will config a raspberrypi with octaprint, if you will, use the 5x track to, power up the raspberrypi.
 
-# Assembly
-## Structure
+## Assembly
+### Structure
 ![montage](Maise_mendal/imagens/struture_montage.svg)
 
 1. Pick 6X380 M8 rods, and 2X *"001 bar-clamp-tall"*, and M8 Bolts and Washers, and displace them like in the picture.
