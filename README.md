@@ -60,7 +60,7 @@ Working..
 
 ## Assembly the frame
 ### Structure
-![montage](Maise_mendal/imagens/struture_montage.svg)
+
 
 1. Pick 6X380 M8 rods, and 2X *"001 bar-clamp-tall"*, and M8 Bolts and Washers, and displace them like in the picture.
 2. Pick parts: **4X** *"001 Frame vertex with foot"*; **2X** *"001 frame-vertex"*, and assemble 2 strutures like on the image, tighten the nuts by hand. 
