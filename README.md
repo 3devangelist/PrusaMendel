@@ -100,5 +100,10 @@ To use a PC ATX power supply, you have to convert it, go to these [instructables
 ![montage](Maise_mendal/imagens/struture_montage.svg)
 
 1. Pick 6X380 M8 rods, and 2X *"001 bar-clamp-tall"*, and M8 Bolts and Washers, and displace them like in the picture.
-2. 
+2. Pick parts: **4X** *"001 Frame vertex with foot"*; **2X** *"001 frame-vertex"*, and assemble 2 strutures like on the image, tighten the nuts by hand. 
+3. Pick 6X M8x40 Bolts and assemble like picture, to make shore that the frame will be the most simetric possible, like picture 4. then you can tighten a Little bit before brake, all the nuts.
+4. The continuing of picture 3.
+5. Pick the M8 Rods like is in the picture, and pick the **6X** *"001 bar-clamp"*, and assemble properly.
+6. Assemble the main structure, by hand;
+
 
