@@ -58,6 +58,17 @@ Working..
 [Spreedsheet](https://docs.google.com/spreadsheets/d/16tOSJMvPqgqwrDMo-RX5avmmjWwADpJSkYPEsrkDC4U/edit?usp=sharing)
 (only parts to be printed the parts to buy needs to be updated)
 
+## Assembly the frame
+### Structure
+![montage](Maise_mendal/imagens/struture_montage.svg)
+
+1. Pick 6X380 M8 rods, and 2X *"001 bar-clamp-tall"*, and M8 Bolts and Washers, and displace them like in the picture.
+2. Pick parts: **4X** *"001 Frame vertex with foot"*; **2X** *"001 frame-vertex"*, and assemble 2 strutures like on the image, tighten the nuts by hand. 
+3. Pick 6X M8x40 Bolts and assemble like picture, to make shore that the frame will be the most simetric possible, like picture 4. then you can tighten a Little bit before brake, all the nuts.
+4. The continuing of picture 3.
+5. Pick the M8 Rods like is in the picture, and pick the **6X** *"001 bar-clamp"*, and assemble properly.
+6. Assemble the main structure, by hand;
+
 ## Extruder
 
 ### Saintflint
@@ -75,14 +86,6 @@ In the [source](https://www.thingiverse.com/thing:979113) you have all informati
 
 **Recommendation** - print all the parts in PETg and 90% infill, takes longer use more plastic but is safer that you will not end with a broken extruder.
 
-## Assembly the frame
-
-
-### Filament Sensor
-
-To implement!
-
-
 ### Hotend
 I have used a Bowden setup with E3d v6 Chinese clone, before all the test I am thinking to upgrade it for a original one!
 
@@ -95,15 +98,8 @@ You should be able to assemble with these [instructions](http://reprap.org/wiki/
 ### ATX Power supply 
 To use a PC ATX power supply, you have to convert it, go to these [instructables](http://www.instructables.com/id/A-Makers-Guide-to-ATX-Power-Supplies/) you only need the 12V track, unless you will config a raspberrypi with octaprint, if you will, use the 5x track to, power up the raspberrypi.
 
-## Assembly
-### Structure
-![montage](Maise_mendal/imagens/struture_montage.svg)
+### Filament Sensor
 
-1. Pick 6X380 M8 rods, and 2X *"001 bar-clamp-tall"*, and M8 Bolts and Washers, and displace them like in the picture.
-2. Pick parts: **4X** *"001 Frame vertex with foot"*; **2X** *"001 frame-vertex"*, and assemble 2 strutures like on the image, tighten the nuts by hand. 
-3. Pick 6X M8x40 Bolts and assemble like picture, to make shore that the frame will be the most simetric possible, like picture 4. then you can tighten a Little bit before brake, all the nuts.
-4. The continuing of picture 3.
-5. Pick the M8 Rods like is in the picture, and pick the **6X** *"001 bar-clamp"*, and assemble properly.
-6. Assemble the main structure, by hand;
+To implement!
 
 
