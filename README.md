@@ -4,14 +4,14 @@
   <img src="Maise_mendal/imagens/Foto_1_Maise_mendel.JPG" width: 20%;>
 </p>
 
-I have made these because I can, and i love history! and is a historic printer!
+I have made this because I can, and i love history! and is a historic printer!
 
 My motivation is to make a printer with a printer, i have a [*Beethefirst+*](https://beeverycreative.com/beethefirstplus/), that is **portable** and **user friendly** and I wanted to prove that with a Little machine, I could create a bigger one! and more maker oriented.
 That is the base of REPRAP movement!
 
 You will have all the gcode already generated to print one just like mine in you beethefirst! and if you do, **Show me!**
 
-## First technical notes about these printer
+## First technical notes about this printer
 
 This printer is not easy to assemble, It has a lot of bolts and hardware, but if well assembled, it can be reliable.
 You have a calibration paragraph, as a guide for you to calibrate the perpendicularity of the X,Y and Z axis.
