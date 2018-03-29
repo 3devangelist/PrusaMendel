@@ -4,36 +4,36 @@
   <img src="Maise_mendal/imagens/Foto_1_Maise_mendel.JPG" width: 20%;>
 </p>
 
-I have made these because i can, and i love history! and is a historic printer!
+I have made this because I can, and i love history! and is a historic printer!
 
-My motivation is make a printer with a printer, i have a [*Beethefirst+*](https://beeverycreative.com/beethefirstplus/), that is **portable** and **user friendly** and i wanted to prove that with a Little machine i could create a bigger one! and more maker oriented.
+My motivation is to make a printer with a printer, i have a [*Beethefirst+*](https://beeverycreative.com/beethefirstplus/), that is **portable** and **user friendly** and I wanted to prove that with a Little machine, I could create a bigger one! and more maker oriented.
 That is the base of REPRAP movement!
 
-You will have all the gcode already generated to print one just like me in you beethefirst! and if you do **Show me!**
+You will have all the gcode already generated to print one just like mine in you beethefirst! and if you do, **Show me!**
 
-## First technical notes about these printer
+## First technical notes about this printer
 
-These printer is not easy to assemble, have a lot of bolts and hardware, but if well assembled it can be reliable.
-You have a calibration paragraph, as a guide for you to calibrate all the perpendicularity of your XYZ axis.
-I have printed the majority parts in PETG because my BTF+ (beeverycreatrive printer) prints it very well and is more flexible than PLA to absorb some vibrations and have better layer adhesion.
+This printer is not easy to assemble, It has a lot of bolts and hardware, but if well assembled, it can be reliable.
+You have a calibration paragraph, as a guide for you to calibrate the perpendicularity of the X,Y and Z axis.
+I have printed the majority of the parts in PETG because my BTF+ (beeverycreatrive printer) prints it very well, it is more flexible than PLA, thus absorbs some vibrations and has better layer adhesion.
 
-**Side note** if you use PETG try to use one that is transparent the color opaque ones normally as worse strength proprieties.
+**Side note** if you use PETG, try to use one that is transparent, the opaque ones normally has worse strength proprieties.
 
 
 ## Modeling
-I have used **BLENDER**, because i am a blender hardcore-user, because i can, and because is really good to edit meshes.
+I have used **BLENDER**, because I'am a blender hardcore-user, because I can, and because it's really good to edit meshes.
 
-To cut pieces,i have used rhino, because is the only paid CAD program i have, but you can use the dxf or you can ask to me and i can convert to your needs, and to bee fair the only part you have to cut with precision is the Y wood base, later i will give the fabrication manual.
+To cut pieces, I have used Rhino, because it's the only paid CAD program i have, but you can use the dxf files, or send me a mail for me to convert the files to your format. To bee fair the only part you have to cut with precision is the Y wood base, later on, i will post the fabrication manual.
 
-The file as called *"maise.blend"*, with that file i have rendered all images for the manual, and modeled all parts that i need to create or change for these build. If you need to edit you can and you should is because of that i share the source code. All the parts have the same name of the boom file, and are distributed by layers, i know that could be better organized, but better done than perfect.
-You should use some add-on's like "3d print toolbox", "Layer management", "cycle engine", when you use models from blender you can try to clean all the mesh to be printable, but that is normally for power users, and when you use Boolean tools is impossible to make that without lose the modifiers stack, and we have to source the more editable parts we can, for others could change. The pipe-line i use is export meshes to stl with "3d print toolbox" add on, then use a tool that came with windows10 called "3d Builder" that is great to heal meshes.
+The file as called *"maise.blend"*, with that file i have rendered all images for the manual, and modeled all parts that I need to create or change for this build. If you need to edit it, you can and you should! That is the purpose of sharing the code. All the parts have the same name of the BOM file, and are distributed by layers, I know that it could be better organized, but better done than perfect.
+You should use some add-on's like "3d print toolbox", "Layer management", "cycle engine", when you use models from blender you can try to clean all the mesh to be printable, but that is normally for power users, and when you use Boolean tools is impossible to make that without losing the modifiers stack, and we have to source the more editable parts we can, for others to be able to change. The pipe-line I use is export meshes to stl with "3d print toolbox" add on, then I use a tool that came with windows10 called "3d Builder" that is great to correct the meshes.
 
-### Heal meshes on 3d Builder
+### Correcting meshes on 3d Builder
 
 ![image 3d builder - heal meshes](Maise_mendal/imagens/repair_meshes_3d_builder.png)
 
 - 1 Import as mm;
-- 2 When you see red rectangle in the base of the model, means that the model has errors;
+- 2 A red rectangle in the base of the model, means that the model has errors;
 - 3 Import the model;
 - 4 When you import the model, a rectangle shows up in the right down of your screen, click on it to repair;
 - 5 Save your file em STL;
@@ -78,28 +78,26 @@ Working..
   <img src="https://cdn.thingiverse.com/renders/45/15/26/87/0c/IMG_20150810_120851_preview_featured.jpg">
 </p>
 
-These is the best bowden printed extruder i have used! was developed by a great friend [Michael Memeteau](https://incompreendido/in/mmemetea/), creative and resourceful engineer.
-These extruder has a concept of double the area of adherence of the tooth to the filament.
-I have edited the model to fit a MK10 type of gear if you want other please edit it yourself, you have a editable [onshape instance](https://cad.onshape.com/documents/5c209690b10748338481382a/w/6d6638f54420d7c76fe7949d/e/2d47f4694787414fab59244e)
+This is the best bowden printed extruder I have used! It was developed by a great friend [Michael Memeteau](https://incompreendido/in/mmemetea/), creative and resourceful engineer.
+This extruder has a concept that double the area of contact between the motor gear and the filament.
+I have edited the model to fit a MK10 type of gear if you have diferent requirements, feel free to edit, you have an editable file [onshape instance](https://cad.onshape.com/documents/5c209690b10748338481382a/w/6d6638f54420d7c76fe7949d/e/2d47f4694787414fab59244e)
 
 In the [source](https://www.thingiverse.com/thing:979113) you have all information you need to assemble the extruder!
 
-**Recommendation** - print all the parts in PETg and 90% infill, takes longer use more plastic but is safer that you will not end with a broken extruder.
+**Recommendation** - print all the parts in PETg and 90% infill, it takes longer, uses more plastic but it makes sure you din't end up with a broken extruder.
 
 ### Hotend
-I have used a Bowden setup with E3d v6 Chinese clone, before all the test I am thinking to upgrade it for a original one!
+I have used a Bowden setup with E3d v6 Chinese clone, before all the test I am thinking about upgrading it to an original one!
 
 ### Wiring
 
 #### MKS GEN 1.4
-I have chose these because is good relation price what you get, in the boom you have links to buy the board, with these boar like i want a silent machine i chose TMC2100 stepper drivers X Y E they are not cheep but they worth it!
-You should be able to assemble with these [instructions](http://reprap.org/wiki/MKS_GEN) from reprap community, if you use LEDs you should connect to the 12V output is the same place you connect the hotend fan.
+I have chosen this because it has a good value for the money, in the BOM you have links to buy the board, Since I want a silent machine I decided to use the TMC2100 stepper drivers for the X, Y and E axis. They are not cheep but they are worth it!
+You should be able to assemble the controller with these [instructions](http://reprap.org/wiki/MKS_GEN) from reprap community, if you use LEDs you should connect to the 12V output, the same place you connect the hotend fan.
 
 ### ATX Power supply 
-To use a PC ATX power supply, you have to convert it, go to these [instructables](http://www.instructables.com/id/A-Makers-Guide-to-ATX-Power-Supplies/) you only need the 12V track, unless you will config a raspberrypi with octaprint, if you will, use the 5x track to, power up the raspberrypi.
+To use a PC ATX power supply, you have to convert it, go to this [instructables](http://www.instructables.com/id/A-Makers-Guide-to-ATX-Power-Supplies/) you only need the 12V track, unless you config a raspberrypi with octaprint, if you do, use the 5x track to power the raspberrypi.
 
 ### Filament Sensor
 
 To implement!
-
-
