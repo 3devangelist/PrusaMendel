@@ -1,3 +1,5 @@
+WARNING: This file is a work in progress and may contain one or two orthographic errors... or maybe more!
+
 # maZEmendel
 
 <p align="center">
@@ -58,8 +60,9 @@ Working..
 [Spreedsheet](https://docs.google.com/spreadsheets/d/16tOSJMvPqgqwrDMo-RX5avmmjWwADpJSkYPEsrkDC4U/edit?usp=sharing)
 (only parts to be printed the parts to buy needs to be updated)
 
-## Assembly the frame
-### Structure
+## 1. Assembly the Printer
+
+### 1.1. Structure
 ![montage](Maise_mendal/imagens/struture_montage.svg)
 
 1. Pick 6X380 M8 rods, and 2X *"001 bar-clamp-tall"*, and M8 Bolts and Washers, and displace them like in the picture.
@@ -69,10 +72,17 @@ Working..
 5. Pick the M8 Rods like is in the picture, and pick the **6X** *"001 bar-clamp"*, and assemble properly.
 6. Assemble the main structure, by hand;
 
-## Extruder
+### 1.2. Y Axes
 
-### Saintflint
+waiting for update
 
+### 1.3. X Axes
+
+waiting for update
+
+### 1.4. Extruder
+
+#### 1.4.1 Saintflint
 
 <p align="center">
   <img src="https://cdn.thingiverse.com/renders/45/15/26/87/0c/IMG_20150810_120851_preview_featured.jpg">
@@ -86,18 +96,27 @@ In the [source](https://www.thingiverse.com/thing:979113) you have all informati
 
 **Recommendation** - print all the parts in PETg and 90% infill, it takes longer, uses more plastic but it makes sure you din't end up with a broken extruder.
 
-### Hotend
+### 1.5. Hotend
 I have used a Bowden setup with E3d v6 Chinese clone, before all the test I am thinking about upgrading it to an original one!
 
-### Wiring
+### 1.6. MKS GEN 1.4
 
-#### MKS GEN 1.4
 I have chosen this because it has a good value for the money, in the BOM you have links to buy the board, Since I want a silent machine I decided to use the TMC2100 stepper drivers for the X, Y and E axis. They are not cheep but they are worth it!
 You should be able to assemble the controller with these [instructions](http://reprap.org/wiki/MKS_GEN) from reprap community, if you use LEDs you should connect to the 12V output, the same place you connect the hotend fan.
 
-### ATX Power supply 
+#### 1.6.1. Assemble models with electronics
+
+waiting for update
+
+### 1.7. ATX Power supply 
 To use a PC ATX power supply, you have to convert it, go to this [instructables](http://www.instructables.com/id/A-Makers-Guide-to-ATX-Power-Supplies/) you only need the 12V track, unless you config a raspberrypi with octaprint, if you do, use the 5x track to power the raspberrypi.
 
-### Filament Sensor
+### 1.9 Filament Sensor
 
 To implement!
+
+## Firmware _**(Fernando to review)**_
+
+I have a Firmware that you can use [here](https://github.com/3devangelist/PrusaMendel/tree/master/Maise_mendal/Firmware), if you want to configure yourself these Topic you should be able to implement with these [resources](http://marlinfw.org/docs/configuration/configuration.html).
+For Base of the firmware i have on git, i have used the Marlin with the hephestos config files, and then edit it them.
+
